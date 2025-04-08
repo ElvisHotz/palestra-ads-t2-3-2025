@@ -12,7 +12,7 @@ Tudo isso com uma pegada futurista, minimalista e nerd, como tem que ser 😎.
 
 Você pode visualizar a apresentação online aqui:
 
-🔗 [https://elvishotz.github.io/palestra-ads-2025](https://elvishotz.github.io/palestra-ads-2025)
+🔗 [https://elvishotz.github.io/palestra-ads-2025](https://elvishotz.github.io/palestra-ads-t2-3-2025)
 
 ## 🛠️ Tecnologias utilizadas
 
