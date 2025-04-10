@@ -1,4 +1,4 @@
-# 🎤 Palestra ADS T1 2025 - Elvis Hotz
+# 🎤 Palestra ADS T2-3 2025 - Elvis Hotz
 
 Este é um projeto de apresentação interativa criada com **HTML + CSS + JavaScript** e animada com **GSAP**, com visual inspirado em tecnologia, games e cultura nerd.
 
